@@ -17,7 +17,7 @@ cargo run
 
 You can add the binary to your path if you want.
 
-======
+---
 
 ## How it works
 
