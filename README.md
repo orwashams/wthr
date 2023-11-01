@@ -6,8 +6,6 @@ Terminal Weather Report written in Rust
 
 ```sh
 git clone git@github.com:orwashams/wthr.git
-```
-```sh
 cd wthr
 cargo run
 ```
