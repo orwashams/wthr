@@ -1,6 +1,6 @@
 # wthr
 
-Terminal Weather Report written in Rust.
+Terminal Weather Report written in Rust
 
 ## Installation
 
